@@ -41,7 +41,7 @@
     "@types/connect-flash": "0.0.36"
   },
   "description": "assignment 2 Muskan sood",
-  "main": "index.js",
+  "main": "server.js",
   "repository": {
     "type": "git",
     "url": "git+https://github.com/muskansood20/COMP229_Assignment2.git"
